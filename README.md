@@ -1,2 +1,2 @@
-# Codeclan-Coding-Challenge
-Day 1 Of coding
+# Codeclan-Coding-Challenge 
+Coding Challenge
